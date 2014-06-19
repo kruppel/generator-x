@@ -1,3 +1,5 @@
+console.log('what');
+
 module.exports = {
   listen: function(callback) {
     var express = require('express'),
